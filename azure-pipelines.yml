@@ -19,3 +19,5 @@ steps:
   inputs:
     command: 'test'
     testRunTitle: 'PruebaTests'
+
+- task: PublishBuildArtifacts@1
