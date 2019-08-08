@@ -11,7 +11,7 @@
     <AssemblyName>Cyxor.Serialization</AssemblyName>
     <AssemblyTitle>Cyxor.Serialization</AssemblyTitle>
     <!--<NullableContextOptions>enable</NullableContextOptions>-->
-    <TargetFrameworks>net20;net35;net40;net45;netstandard1.0;netstandard1.3;netstandard2.0</TargetFrameworks>
+    <TargetFramework>netstandard2.0</TargetFramework>
     <Description>Effective binary object serialization class library for low-overhead network transmissions</Description>
 
     <Deterministic>true</Deterministic>
